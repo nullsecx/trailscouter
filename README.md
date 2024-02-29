@@ -7,7 +7,7 @@ TrailScouter is a tool for collecting subdomains from SecurityTrails and perform
 1. Clone the repository:
 
     ```
-    git clone https://github.com/your_username/trailscouter.git
+    git clone https://github.com/nullsecx/trailscouter.git
     ```
 
 2. Navigate to the project directory:
