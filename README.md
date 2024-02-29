@@ -25,15 +25,15 @@ TrailScouter is a tool for collecting subdomains from SecurityTrails and perform
 ## Usage
 
 1. Obtain your SecurityTrails API key from [SecurityTrails](https://securitytrails.com/).
-2. Store your API key in a file named `securitytrails_api_key.txt` in the project directory.
-3. Run the `trailscouter.py` script:
+2. Run the `trailscouter.py` script:
+3. Enter your SecurityTrails API
 
     ```
     python trailscouter.py
     ```
 
-4. Follow the prompts to enter the domain for which you want to collect subdomains and the name of the output file.
-5. The tool will collect subdomains from SecurityTrails and write them to the specified output file.
+5. Follow the prompts to enter the domain for which you want to collect subdomains and the name of the output file.
+6. The tool will collect subdomains from SecurityTrails and write them to the specified output file.
 
 ## Advantages
 
