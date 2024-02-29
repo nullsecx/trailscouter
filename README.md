@@ -29,7 +29,7 @@ TrailScouter is a tool for collecting subdomains from SecurityTrails and perform
 3. Enter your SecurityTrails API
 
     ```
-    python trailscouter.py
+    python3 trailscouter.py
     ```
 
 5. Follow the prompts to enter the domain for which you want to collect subdomains and the name of the output file.
